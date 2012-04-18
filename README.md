@@ -16,4 +16,4 @@ Scales an image to a specified width while preserving the aspect-ratio. The scal
 
 `Thumbnailer.deleteAllImages()`
 
-Removes thumbnailer_image_cache directory and its contents.
+Removes the `thumbnailer_image_cache` directory and its contents.
